@@ -48,7 +48,6 @@ they can see the history
 - Shelter:
 	- The shelter should be able to return all the clients.
 	- The shelter should be able to return all the animals.
-  - The shelter should be able to create a new animal
   - The shelter should be able to create a new client
   - The shelter should be able to accept an existing pet from a client
 
