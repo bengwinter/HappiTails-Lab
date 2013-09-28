@@ -9,8 +9,11 @@ class Animal
     @toys = []
   end
 
-  def add_toys(toy)
+  def add_toy(toy)
     @toys << toy
   end
 
+  def remove_toy(toy)
+    @toys.delete(toy)
+  end
 end
